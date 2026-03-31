@@ -36,7 +36,7 @@ While most of my core contributions reside in **private NEURA repositories** for
 - **Math Olympiad Medalist** – Multiple medals across prestigious Olympiad competitions
 - Deep expertise in combinatorics, number theory, and advanced proof techniques
 - **GEMS GENIUS SCHOLAR** – Won close to $20,000 in scholarships to the top schools in the region.
-- **LOTS OF INNOVATION COMPETITIONS AND HACKATHONS
+- **LOTS OF INNOVATION COMPETITIONS AND HACKATHONS**
 
 ---
 
