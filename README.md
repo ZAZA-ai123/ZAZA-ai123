@@ -35,14 +35,17 @@ While most of my core contributions reside in **private NEURA repositories** for
 ### Academic Excellence
 - **Math Olympiad Medalist** – Multiple medals across prestigious Olympiad competitions
 - Deep expertise in combinatorics, number theory, and advanced proof techniques
+- **GEMS GENIUS SCHOLAR** – Won close to $20,000 in scholarships to the top schools in the region.
 
 ### Competitive Distinction
-- **Accomplished Debater** – Advanced rhetoric, argumentation, and critical thinking at competitive levels
+- **Accomplished Debater** – Advanced rhetoric, argumentation, and critical thinking at highly competitive levels like UAE WSDC Senior Nationals
 
 ---
 
 ## 🏗️ Building in Public
 Currently architecting the foundational systems for NEURA and advancing research initiatives at RRIN Labs. Public repositories coming soon as we open-source select primitives of our agentic framework and research findings.
+
+Already presented at multiple major pitch competitions such as the Global Innovation Challenge, to the Ignyte Incubator(offered place in program) and WE ARE GETTING TO YC
 
 **Watch this space.** 🔜
 
