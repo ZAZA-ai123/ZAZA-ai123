@@ -1,11 +1,10 @@
-# ⚡ ZORAVAR SINGH | CEO @ NEURA
+# ⚡ ZORAVAR SINGH | Building @ NEURA | Building @ Curio
 
 ## 🌐 The Mission: NEURA
-I am currently leading **NEURA**, an R&D venture focused on bridging the gap between human intent and autonomous execution. I am engineering the **Octagonal Agentic Architecture**—a proprietary framework designed to power our next generation Wealth Operating System.
+I am currently leading **NEURA**, an R&D venture focused on bridging the gap between human intent and autonomous execution.
 
-* **Status:** Stealth Mode / Intensive Development
-* **Focus:** Agentic Orchestration, Non-Invasive BCI, and High-Leverage Financial Infrastructure.
-* **Location:** Dubai, UAE 🇦🇪
+## Curio
+A better way to learn
 
 ---
 
@@ -13,11 +12,7 @@ I am currently leading **NEURA**, an R&D venture focused on bridging the gap bet
 
 ### Current Roles
 - **Head Researcher & Founder @ RRIN Labs** – Leading a cohort of elite researchers and builders conducting cutting-edge research and publishing across multiple major fields
-- **Growth Intern @ Trayce** – Scaling growth initiatives and market expansion strategies
-
-### Previous Experience
-- **Growth & Operations @ PedTech Global** – Worked with one of the largest EdTech providers globally
-- **Ambassador @ RCI** – Representing and promoting organizational mission
+- **Building Memo** - A BCI interface that is positioned below your mandible to decode sEMG signals to mimic action-less computer interaction
 
 ---
 
